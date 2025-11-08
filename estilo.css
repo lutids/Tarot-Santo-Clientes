@@ -14,7 +14,7 @@ body {
 
 
 header {
-    background: url('img/capa.jpg') no-repeat center center;
+    background: url('capa.jpg') no-repeat center center;
     background-size: cover;
     text-align: center;
     padding: 60px 20px;
@@ -136,3 +136,4 @@ footer a {
 footer a:hover {
     color: white;
 }
+
