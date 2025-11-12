@@ -136,11 +136,7 @@ footer a:hover {
     color: white;
 }
 
-/* ============================================
-   RESPONSIVIDADE - Media Queries
-   ============================================ */
 
-/* Tablets e telas médias (até 768px) */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2.5em;
@@ -174,7 +170,6 @@ footer a:hover {
     }
 }
 
-/* Smartphones (até 480px) */
 @media (max-width: 480px) {
     header {
         padding: 40px 15px;
